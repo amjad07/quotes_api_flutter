@@ -1,7 +1,7 @@
 # motivation_on_the_go
 
 A new Flutter project.
-
+![](result.gif)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
